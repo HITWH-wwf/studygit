@@ -1,3 +1,4 @@
 nihao,
 wo jiu shi xiang shishi 
-he bing de shi hou hui zenyang 
+ihe bing de shi hou hui zenyang 
+我又被拉下来，进行修改了
